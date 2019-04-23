@@ -1,6 +1,6 @@
 class Cat 
   
-  def meow(Cat)
+  def meow(cat)
     puts "meow!"
   end
 end
