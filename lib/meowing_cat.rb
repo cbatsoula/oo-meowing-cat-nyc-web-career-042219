@@ -1,5 +1,5 @@
 class Cat 
-  attr_accessor
+  attr_accessor :name
   def meow(cat)
     puts "meow!"
   end
